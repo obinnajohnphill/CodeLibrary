@@ -10,6 +10,8 @@ table, th, td {
 </head>
 
 <body>
+
+<div align="center"><h1>Test</h1></div>
 <?php
 
 require_once('class.php');
