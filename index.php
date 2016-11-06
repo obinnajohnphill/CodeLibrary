@@ -11,7 +11,7 @@ table, th, td {
 
 <body>
 
-<div align="center"><h1>Test</h1></div>
+<div align="center"><h1>Test a random script</h1></div>
 <?php
 
 require_once('class.php');
