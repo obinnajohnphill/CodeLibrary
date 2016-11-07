@@ -1,6 +1,6 @@
    <?php  
    
-	$database = array(array("ServerDetails",'localhost','root','software','quote') );  
+	$database = array(array("ServerDetails",'localhost','root','xxxx','quote') );  
 	$localhost  = $database[0][1];
 	$username = $database[0][2];
 	$password =  $database[0][3];
